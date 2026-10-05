@@ -26,3 +26,7 @@ dist-ssr
 # Python env
 .venv/
 __pycache__/
+
+# Local secrets and project data
+.env
+data/
